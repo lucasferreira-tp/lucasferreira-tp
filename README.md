@@ -3,7 +3,9 @@
 
 ### Hi there 👋
 ---
-My name is Lucas Ferreira. I'm a transport planner and data analyst from Brazil, currently working on Transitar Consultoria and finishing a master's degree in transport planning. I just started this account (since 2015, I've had another dedicated to private repositories), and I'll put things that I think be usefull in transportation planning and data analysis (or just cool things).
+My name is Lucas Ferreira. I'm a transport planner and data analyst from Brazil. Currently I'm working on Transitar Consultoria and finishing a master's degree in transport planning. 
+
+I just started this account (since 2015, I've had another dedicated to private and team repositories), and I'll put things that I think be usefull in transportation planning and data analysis (or just cool things).
 
 ### Research and work interests :bus:
 ---
