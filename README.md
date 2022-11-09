@@ -1,3 +1,6 @@
+
+![](imgs/Rplot.png)
+
 ### Hi there 👋
 ---
 My name is Lucas Ferreira. I'm a transport planner and data analyst from Brazil, currently working on Transitar Consultoria and finishing a master's degree in transport planning. I just started this account, and I'll put things that I think be usefull in transportation planning and data analysis (or just cool things).
@@ -14,7 +17,6 @@ I'm particularly interested in issues concerning transportation inequalities and
 
 ### Contact :email:
 ---
-[![github](icons8-github-50.png)][1][![linkedin](icons8-linkedin-circundado-48.png)][2]
+[<img src="https://www.iconsdb.com/icons/download/color/2E3949/linkedin-4-32.png">](https://www.linkedin.com/in/lucas-sousa-ferreira/)
+[<img src="https://www.iconsdb.com/icons/download/color/2E3949/github-9-32.png">](https://github.com/lucasferreira-tp)
 
-[1]: https://github.com/lucasferreira-tp
-[2]: https://www.linkedin.com/in/lucas-sousa-ferreira/
