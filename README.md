@@ -21,5 +21,5 @@ I'm particularly interested in issues concerning transportation inequalities and
 ---
 [<img src="https://www.iconsdb.com/icons/download/icon-sets/concrete/linkedin-3-32.png">](https://www.linkedin.com/in/lucas-sousa-ferreira/)
 [<img src="https://www.iconsdb.com/icons/download/icon-sets/concrete/github-8-32.png">](https://github.com/lucasferreira-tp)
-[<img src="https://www.iconsdb.com/icons/download/icon-sets/concrete/email-32.png">](lucasferreira@det.ufc.br)
+[<img src="https://www.iconsdb.com/icons/download/icon-sets/concrete/email-32.png">](mailto:lucasferreira@det.ufc.br)
 
